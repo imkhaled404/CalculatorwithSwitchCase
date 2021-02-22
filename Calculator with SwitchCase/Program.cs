@@ -55,9 +55,8 @@ namespace CalculatorApp {
             int n2 = Convert.ToInt32(Console.ReadLine());
             //int n3 = 10;
             int result = 0;
-            int result1 = 0;
             result = Addition(n1,n2); 
-            result1 = Addition(10,12,20); 
+            result = Addition(10,12,20); 
 
             /*switch (action) {  
                 case 1: {  
